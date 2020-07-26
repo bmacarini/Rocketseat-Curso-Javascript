@@ -1,1 +1,2 @@
-# Rocketseat-Curso-Javascript
+# Rocketseat Curso Javascript
+Exercícios resolvidos
